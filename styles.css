@@ -25,3 +25,9 @@
     display: flex;
     gap: 20px;
 }
+
+/* header-2-container */
+
+.header-2-container {
+    display: flex;
+}
