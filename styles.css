@@ -1,6 +1,6 @@
 .header-container {
     border: 1px solid black;
-    display: flex;
+    display: block;
 }
 
 .header-1-container {
