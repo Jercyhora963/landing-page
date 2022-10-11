@@ -1,9 +1,11 @@
 .header-container {
+    border: 1px solid black;
     display: flex;
 }
 
 .header-1-container {
     display: flex;
+    justify-content: space-around;
 }
 
 .links-container {
