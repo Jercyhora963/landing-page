@@ -4,6 +4,7 @@
 }
 
 .header-1-container {
+    border: 2px dotted red;
     display: flex;
     justify-content: space-around;
 }
