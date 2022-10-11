@@ -1,4 +1,10 @@
+/* header-container */
+
 .header-container {
     color: aliceblue;
     background-color: #1f2937;
+}
+
+.header-2-container {
+    color: #F9FAF8;
 }
