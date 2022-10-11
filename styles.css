@@ -29,8 +29,9 @@
 /* header-2-container */
 
 .header-2-container {
+    border: 1px dashed rebeccapurple;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .description-title {

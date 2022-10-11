@@ -5,6 +5,16 @@
     background-color: #1f2937;
 }
 
+
+/* .header-2-container */
+
 .header-2-container {
     color: #F9FAF8;
+}
+
+/* button universal */
+
+.button {
+    background-color: #3882F6;
+    border-radius: 5px;
 }
