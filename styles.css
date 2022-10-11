@@ -3,8 +3,13 @@
     display: block;
 }
 
+/* header-1-container */
 .header-1-container {
     border: 2px dotted red;
     display: flex;
     justify-content: space-between;
+}
+
+.links-container {
+    display: flex;
 }
