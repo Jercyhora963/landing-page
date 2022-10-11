@@ -32,3 +32,7 @@
     display: flex;
     justify-content: space-between;
 }
+
+.description-title {
+    font-size: 48px;
+}
