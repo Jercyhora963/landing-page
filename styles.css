@@ -30,4 +30,5 @@
 
 .header-2-container {
     display: flex;
+    justify-content: space-between;
 }
