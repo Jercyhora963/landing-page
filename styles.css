@@ -16,7 +16,6 @@
 /* header-1-container */
 
 .header-1-container {
-    border: 2px dotted red;
     display: flex;
     justify-content: space-between;
 }
@@ -41,4 +40,10 @@
 
 .description {
     font-size: 18px;
+}
+
+/* button universal */
+
+.button {
+    border-radius: 5px;
 }
