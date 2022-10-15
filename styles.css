@@ -1,15 +1,22 @@
 /* Universal */
 
+
 * {
     /* margin: 5px; */
 }
 
 
+/* body */
+body {
+    margin: 0px;
+}
+
 /* header-container */
 
 .header-container {
-    /* padding-inline: 40px; */
+    padding-inline: 40px;
     border: 2px solid black;
+
     display: block;
 }
 
