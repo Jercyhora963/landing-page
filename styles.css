@@ -1,15 +1,15 @@
 /* Universal */
 
 * {
-    margin: 5px;
+    /* margin: 5px; */
 }
 
 
 /* header-container */
 
 .header-container {
-    padding-inline: 40px;
-    border: 1px solid black;
+    /* padding-inline: 40px; */
+    border: 2px solid black;
     display: block;
 }
 
