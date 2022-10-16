@@ -61,3 +61,14 @@ body {
 .button {
     border-radius: 5px;
 }
+
+
+
+
+/* 2nd ancestor div element */
+
+
+
+.info-container {
+    display: flex;
+}
