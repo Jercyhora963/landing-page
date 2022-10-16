@@ -71,9 +71,16 @@ body {
 
 
 .info-container {
-    display: block;
+    display: flex;
+    flex-direction: column;
 }
 
 .random-info-container {
+    display: flex;
     flex-direction: row;
 }
+
+/*
+.info-title {
+    justify-content: center;
+} */
