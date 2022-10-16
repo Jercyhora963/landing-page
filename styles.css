@@ -74,3 +74,6 @@ body {
     display: block;
 }
 
+.random-info-container {
+    flex-direction: row;
+}
