@@ -26,6 +26,7 @@ body {
 /* header-1-container */
 
 .header-1-container {
+    font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
     display: flex;
     justify-content: space-between;
